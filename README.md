@@ -19,9 +19,3 @@ I'm a final-year computer science student passionate about building robust and s
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br />
-
-
-##summary
-
-I'm a final-year student, passionate about exploring new technologies. Currently, I'm interning in Rust and fascinated by the potential of blockchain technology. My dream is to become a full-stack developer, building impactful products and sharing my knowledge with the community. I'm always eager to learn new things, grow as a developer, and contribute to a better world.
-
