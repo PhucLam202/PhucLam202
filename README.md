@@ -21,10 +21,7 @@ I'm a final-year computer science student passionate about building robust and s
 <br />
 
 
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-###summary
+##summary
 
 I'm a final-year student, passionate about exploring new technologies. Currently, I'm interning in Rust and fascinated by the potential of blockchain technology. My dream is to become a full-stack developer, building impactful products and sharing my knowledge with the community. I'm always eager to learn new things, grow as a developer, and contribute to a better world.
 
