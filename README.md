@@ -19,3 +19,14 @@ I'm a final-year computer science student passionate about building robust and s
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br />
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Twitter | Twitter" width="40px" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" />][twitter]
+[<img align="left" alt="Linkedin | LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
+[<img align="left" alt="FaceBook | Facebook" width="40px" src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" />][facebook]
+
+
+[twitter]: https://twitter.com/AlexLamCrypBoy
+[facebook]: https://www.facebook.com/profile.php?id=100015902082971
+[linkedin]: https://www.linkedin.com/in/lam-thanh-phuc-alex/
