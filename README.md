@@ -3,9 +3,9 @@
 <p  align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C0EF7&background=FFFFFF00&random=false&width=435&lines=Hi!!+.I+am+a+Software+Engineer+" alt="Typing SVG" /></a>
 </p>
-**Back-end Developer | Rust Enthusiast**
+Back-end Developer | Rust Enthusiast
 
-I'm a final-year computer science student passionate about building robust and scalable back-end systems.  Currently, I'm honing my skills in Rust through a [Tên công ty] internship, exploring the exciting world of blockchain technology and eager to learn more.  I'm also proficient in C#, PHP, React.js, MySQL, PostgreSQL, Move, and Mongo, and I'm always looking for new challenges to expand my knowledge. I'm driven by a desire to learn, grow, and contribute to impactful projects.
+I'm a final-year computer science student passionate about building robust and scalable back-end systems.  Currently, I'm honing my skills in Rust through a VBI Acadadmy internship, exploring the exciting world of blockchain technology and eager to learn more.  I'm also proficient in C#, PHP, React.js, MySQL, PostgreSQL, Move, and Mongo, and I'm always looking for new challenges to expand my knowledge. I'm driven by a desire to learn, grow, and contribute to impactful projects.
 
 ---
 
