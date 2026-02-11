@@ -19,6 +19,18 @@
 
 🚀 Passionate Backend Developer with **7 months** of hands-on experience crafting scalable and efficient systems using **Rust, TypeScript, and Node.js**. Skilled in leveraging modern technologies like **MongoDB, AWS (EC2, S3), DynamoDB, Git, and Docker** to build high-performance applications. Always eager to optimize, scale, and innovate. Check out my work on GitHub! 🔥
 
+---
+## Personal Project
+
+### 🪙 CrypSlip – Web3 dApp Built During Hackathon
+
+A decentralized application focused on blockchain interaction and modern user experience.
+
+🔗 **GitHub Repository**  
+https://github.com/PhucLam202/V1-CrypSlip  
+
+🌍 **Live Demo**  
+https://v1-cryp-slip.vercel.app/
 <!-- Tech Stack Section -->
 # 🛠 Tech Stack
 
