@@ -20,22 +20,49 @@
 🚀 Passionate Backend Developer with **7 months** of hands-on experience crafting scalable and efficient systems using **Rust, TypeScript, and Node.js**. Skilled in leveraging modern technologies like **MongoDB, AWS (EC2, S3), DynamoDB, Git, and Docker** to build high-performance applications. Always eager to optimize, scale, and innovate. Check out my work on GitHub! 🔥
 
 <!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### **Frontend Development**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" />
-</div>
+## 🚀 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,rust,express" />
+</p>
 
-### **Backend Development**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,rust" />
-</div>
+<p>
+REST APIs • Authentication (JWT, OTP, Redis) • Microservices Architecture
+</p>
 
-### **Databases & DevOps**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,aws,postman,supabase,git,linux" />
-</div>
+---
+
+## 🗄 Database & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,linux,git,githubactions" />
+</p>
+
+<p>
+PostgreSQL • MongoDB • Docker • Kubernetes (K8s) • AWS • CI/CD
+</p>
+
+---
+
+## 🌐 Web3 & Blockchain
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ethereum,solidity,ipfs" />
+</p>
+
+<p>
+Ethereum • Sui • Polkadot • Smart Contracts • dApps • Wallet Integration
+</p>
+
+---
+
+## 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,vite,vercel" />
+</p>
+
+<p>
+React • TypeScript • Tailwind CSS • Modern UI/UX
+</p>
 
 ----
 ## 📈 GitHub Analytics
